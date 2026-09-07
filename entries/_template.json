@@ -1,0 +1,16 @@
+{
+  "title": "Your game's name",
+  "slug": "your-game",
+  "team": ["GitHub handle", "GitHub handle"],
+  "play_url": "https://you.github.io/yourgame/game/",
+  "source_url": "https://github.com/you/yourgame",
+  "commit": "the sha the verdict block names",
+  "genre": "racing | shooter | platformer | other",
+  "agent": "what ran the build, for example Claude Code, Cursor, Codex",
+  "models": ["the models that wrote code and judged", "and the ones that made images or sound"],
+  "own_art": false,
+  "own_art_list": [],
+  "what_i_found": "Three sentences at most. The one thing you tried that nobody else did. This text carries 20 percent of the judging.",
+  "wallet": "a Bittensor (SS58) address, one per team, or 'later'",
+  "contact": "an email or an X handle we can reach during judging"
+}
