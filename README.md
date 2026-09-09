@@ -87,4 +87,5 @@ Judges are announced before entries close. Anyone with a conflict (they built a 
 - **Ties.** Judge majority in stage two. If still tied, the community vote decides.
 - **Disqualification.** Decided by the jam team, with a written reason posted on the pull request. You have 24 hours to respond before it is final.
 - **Fewer than twelve entries pass.** Everything that passes is the shortlist.
-- **Questions.** Open an issue here, or come to office hours on 18 Sep. On X: @404gen_.
+- **Questions.** The 404 Discord is fastest: https://discord.gg/5qvNHuWxTH. Otherwise open an issue here, ask on X at @404gen_, or come to office hours on 18 Sep.
+- **Entering elsewhere.** Your game is yours. Enter it in other jams and hackathons too; Tripo's Tripothon takes submissions from 15 September to 5 October.
