@@ -1,6 +1,6 @@
 # 404 game jam, 001
 
-Site: https://ben-atlas.github.io/404-jam/ (moving to a 404.xyz subdomain before open). Method: https://github.com/404-Repo/404-game-recipe
+Site: https://game.404.xyz Method: https://github.com/404-Repo/404-game-recipe
 
 This repo is where entries land. One pull request per entry, adding one file to `entries/`. The rules below are the rules; the site restates them, and where they differ this file wins.
 
