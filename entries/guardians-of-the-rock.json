@@ -1,0 +1,28 @@
+{
+  "title": "Guardians of the Rock",
+  "slug": "guardians-of-the-rock",
+  "team": [
+    "tommyhgunz14"
+  ],
+  "play_url": "https://tommyhgunz14.github.io/202/",
+  "source_url": "https://github.com/tommyhgunz14/202",
+  "commit": "bf3cfc5",
+  "genre": "other",
+  "agent": "Claude Code",
+  "models": [
+    "Claude Opus 5 (code, data, testing)",
+    "Atlas: Gemini 3 Pro and Gemini 3 Flash image (skies, period-style photographs, mission-plan photographs, recognition and reference plates)",
+    "Atlas: PATINA material generation (surface textures)",
+    "Atlas: Lyria 3 (music)",
+    "Atlas: audio_sfx (engines, guns, sea, explosions)",
+    "Atlas: ElevenLabs text to speech (crew voices)"
+  ],
+  "own_art": true,
+  "own_art_list": [
+    "Passing-out photograph, winter 1930, with T. Q. Horner: the family's own print, colourised locally by script (assets/intro/passing_out_1930.jpg)",
+    "Squadron badge artwork showing a Short Sunderland, reading British Air Force, with no crown, supplied by the team and cut out from its background (assets/ui/badge_202.webp)"
+  ],
+  "what_i_found": "A true story of No. 202 Squadron at Gibraltar, flown in authentic recreations of the most advanced flying boats of 1941 and the missions they flew in the battle for the Mediterranean. You take off from the water and hunt submarines on a period radar A-scope, with a plotting chart alongside; every contact must be identified by eye and reported by radio, which can bring destroyers to your contact, and firing on the wrong ship goes on your record. Depth charges are set to a firing depth before each run, a dived submarine is tracked by her shadow in the water, and you can take any gunner's or the bomb aimer's position while picture-in-picture windows follow the automated gunners and the charges' plumes with the crew's commentary.",
+  "wallet": "5Ft3ksh8DFJ2DbmgBf1hzsgJm7Kt1YZydvzCSqQRQinQb8L4",
+  "contact": "th@babelbit.ai (GitHub: tommyhgunz14)"
+}
