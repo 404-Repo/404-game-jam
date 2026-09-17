@@ -76,6 +76,8 @@ Two stages, published so nobody has to guess.
 | 20 | What did you find that nobody else tried |
 | 10 | How it was made, with the receipts: your repo, your gate runs, what you threw away |
 
+The 20 for "what did you find that nobody else tried" is about the game itself: a mechanic, a rule, a look or a control scheme that no other entry has, judged against the other entries on the shortlist, not against the recipe or the harness. How you got there is scored in the 10 row. Say your find in the `what_i_found` field of your entry file.
+
 Judges are announced before entries close. Anyone with a conflict (they built a reference game, they work on the thing an entry was built with) declares it and does not score that entry.
 
 **Community vote.** Entrants vote for one shortlisted entry other than their own by reacting with a thumbs up to its pull request between 27 Sep and 28 Sep 12:00 UTC. One GitHub account, one vote, entrants only. Reactions from accounts that did not enter are not counted.
