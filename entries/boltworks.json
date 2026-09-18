@@ -4,7 +4,7 @@
   "team": ["sidneycodes1"],
   "play_url": "https://sidneycodes1.github.io/boltworks/game/",
   "source_url": "https://github.com/sidneycodes1/boltworks",
-  "commit": "224b98dff6b547dc439e0b7712cec4664aa46a4b",
+  "commit": "32414037f547f6fba4eaceb2163fb334c10f9b33",
   "genre": "shooter",
   "agent": "OpenCode",
   "models": ["opencode/muse-spark-1.2-contributor-free"],
