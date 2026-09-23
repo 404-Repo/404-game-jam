@@ -1,0 +1,27 @@
+{
+  "title": "Porcelain Tide",
+  "slug": "porcelain-tide",
+  "team": [
+    "FlyingBisonSG"
+  ],
+  "play_url": "https://flyingbisonsg.github.io/porcelain-tide/game/?v=a7692af",
+  "source_url": "https://github.com/FlyingBisonSG/porcelain-tide",
+  "commit": "a7692af38eaa57557f2868dc934abe0a35728bb4",
+  "genre": "shooter",
+  "agent": "OpenAI Codex with independent geometry candidates and visual reviewers; Atlas MCP for image and music generation",
+  "models": [
+    "OpenAI GPT-6 (Codex: code and visual review)",
+    "Black Forest Labs FLUX.2 Pro (Atlas: early concepts and asset reference)",
+    "Google Gemini 3 Pro Image (Atlas: object references and surface paintings)",
+    "Google Lyria 3.5 (Atlas: original instrumentals)",
+    "ElevenLabs Music v2.5 (Atlas: original chapter instrumentals)"
+  ],
+  "own_art": true,
+  "own_art_list": [
+    "Original synthesized Web Audio ceramic action tones and resolution chord.",
+    "Original inline SVG voyage chart and interface ornament; procedural water, reflections, wakes and ceramic impact effects."
+  ],
+  "what_i_found": "Your strongest shot is the one coming home: cast harmlessly past porcelain creatures, steer your salvage boat, then recall to reshape the returning harpoon's path through the shoal. Missed creatures circle back with their remaining health, so each of five voyages ends only when you resolve its encounters. Moving the boat becomes a way to aim, inside a drowned ceramic garden with reflected cobalt paintings and original chapter music.",
+  "wallet": "later",
+  "contact": "gurvichsonja@gmail.com"
+}
