@@ -1,0 +1,24 @@
+{
+  "title": "Shards of the Blighted March",
+  "slug": "shards-of-the-blighted-march",
+  "team": ["MatiDendrite"],
+  "play_url": "https://matidendrite.github.io/shards-of-the-blighted-march/",
+  "source_url": "https://github.com/MatiDendrite/shards-of-the-blighted-march",
+  "commit": "70499eba05c525433ae488851ebb46fae506fb63",
+  "genre": "other",
+  "agent": "Codex",
+  "models": [
+    "GPT 6 Astra (Max reasoning, Fast mode)",
+    "OpenAI image generation through Codex's built-in image_gen tool"
+  ],
+  "own_art": true,
+  "own_art_list": [
+    "Original project-generated raster textures in game/textures/: forest-floor.webp, stone.webp, fir.webp, timber-detail.webp, plaster-detail.webp, meadow.webp and hornbeam-leaves.webp.",
+    "Original project-generated ability illustrations in game/icons/: cleave.webp, slam.webp, cry.webp, firebolt.webp, frostnova.webp, blink.webp, shadowcut.webp, venom.webp, smoke.webp, forgeblow.webp, cinderbomb.webp and ironward.webp.",
+    "Original sound effects synthesized at runtime with the Web Audio API in game/src/audio.js; no prerecorded music or sound files.",
+    "In-game screenshots in screenshots/, captured from the running game."
+  ],
+  "what_i_found": "I explored how much of a town-and-wilderness RPG can fit into a single browser tab: four classes, persistent loot, weapon upgrades and a complete four-region journey. Classes can be changed in settlements without resetting progress, making each return to town a chance to rethink the next hunt. Hills, rivers and bridges connect terrain, traversal, grounded attack warnings and a north-up atlas, so the landscape guides both exploration and combat; the procedural world also has potential for further visual improvements through richer models, textures and lighting.",
+  "wallet": "5CY4miCAEvxtCf1h6eBXF1ui6jhxgvF5mWvv8638VPf1s2Eh",
+  "contact": "dev@dendrite.holdings"
+}
