@@ -1,0 +1,30 @@
+{
+  "title": "PROJECT BLACKSITE",
+  "slug": "project-blacksite",
+  "team": [
+    "Dairus01"
+  ],
+  "play_url": "https://dairus01.github.io/blacksite/",
+  "source_url": "https://github.com/Dairus01/blacksite",
+  "commit": "1cf1d630514f581657a34c29d077d3c69f03bcc5",
+  "genre": "shooter",
+  "agent": "OpenAI Codex for implementation, refactoring and test work; ChatGPT for design, review and release/gate preparation",
+  "models": [
+    "OpenAI Codex: code implementation, refactoring and QA",
+    "GPT-5.6 Sol: game design review, technical review and submission/gate preparation",
+    "Google Flow: six original PROJECT BLACKSITE memory clips and their scene audio",
+    "OpenAI image generation: character, environment, weapon, campaign and UI reference boards",
+    "Runway: six one-shot weapon sound effects and a separate generated ambience asset"
+  ],
+  "own_art": true,
+  "own_art_list": [
+    "All shipped 3D maps, soldiers, weapons, pickups and environmental props are original procedural Three.js geometry written in code",
+    "PROJECT BLACKSITE briefing artwork and UI presentation",
+    "15-second memory montage derived from six original Google Flow clips generated for this project, preserving their original scene audio",
+    "Daniel Vale, Maya Reyes and Elias Kane WebP portraits derived from original project reference boards",
+    "Six original Runway-generated one-shot weapon sound effects; the separately generated ambience asset is retained but is not mixed into the current memory montage"
+  ],
+  "what_i_found": "I treated a browser jam build like a compact campaign shooter rather than a single-loop demo: four connected operations share one persistent operator, credits, XP, weapons, attachments and mission unlocks. The AEGIS memory sequence and intel gradually turn a presumed-dead teammate into the campaign's opposing commander, so progression and story advance together instead of resetting every run. The same procedural Three.js combat system then branches into Campaign, Survival, Extraction and Team Battle without imported meshes.",
+  "wallet": "later",
+  "contact": "okohdairus@gmail.com | @DairusOkoh"
+}
