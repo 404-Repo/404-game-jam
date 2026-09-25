@@ -1,0 +1,21 @@
+{
+  "title": "Road Zero",
+  "slug": "road-zero",
+  "team": ["samscript18"],
+  "play_url": "https://road-zero.onrender.com/",
+  "source_url": "https://github.com/samscript18/road-zero",
+  "commit": "c35e1a1",
+  "genre": "racing",
+  "agent": "Codex",
+  "models": ["GPT-5", "OpenAI built-in image generation"],
+  "own_art": true,
+  "own_art_list": [
+    "Original Three.js code-built cars, roads, buildings, vegetation, and race scenery; no imported 3D meshes.",
+    "Original code-rendered SVG motorsport avatar portraits and CSS interface art.",
+    "OpenAI built-in image-generated Road Zero logo, favicon and home-screen icon derivatives, and social preview image; provenance documented in docs/BRAND_ASSET_PROVENANCE.md.",
+    "Original runtime Web Audio engine, tyre, surface, crowd, wind, collision, and race cues; no third-party audio files."
+  ],
+  "what_i_found": "Three persistent AI rivals race with genuinely different personalities—aggressive, technical, and defensive—so winning the championship means learning how each opponent behaves, not just driving faster. The same racing world also supports private 2–4 player Race Together sessions with synchronized lobbies, starts, laps and results.",
+  "wallet": "later",
+  "contact": "lammysam8@gmail.com"
+}
