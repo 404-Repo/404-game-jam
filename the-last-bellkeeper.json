@@ -1,0 +1,25 @@
+{
+  "title": "The Last Bellkeeper",
+  "slug": "the-last-bellkeeper",
+  "team": [
+    "Tylerdurdeth"
+  ],
+  "play_url": "https://tylerdurdeth.github.io/the-last-bellkeeper/",
+  "source_url": "https://github.com/Tylerdurdeth/the-last-bellkeeper",
+  "commit": "508d3e9072d55d5b9ddadfc6630ebb8459f85a01",
+  "genre": "other",
+  "agent": "Claude Code (lead + parallel worker agents); Codex for the first (v1) telling",
+  "models": [
+    "Claude Opus 5.5 (code, reviews, independent visual critics)",
+    "GPT/Codex (v1 history)",
+    "Atlas Text→Image, Gemini 3.1 Flash Lite Image (references, textures, sky, title and prologue illustrations)",
+    "OpenAI image generation (v1 history only; not shipped in v2)"
+  ],
+  "own_art": true,
+  "own_art_list": [
+    "All music and sound effects, including the boss score: synthesized in code with the Web Audio API (no audio files)"
+  ],
+  "what_i_found": "Wind as a physical tool you carry: you catch a gust in your bell, hold it, and give it back to the world to turn a mill, ride an updraft, swing a bridge or calm a guardian, in a village built inside one great tree. Every puzzle and the boss fight are solved with the same few verbs of wind, never with a weapon.",
+  "wallet": "5DtZ28nfX91pLz2bN4BWBFvLQnEfEVwqLLdT2Rtsnnojpigr",
+  "contact": "tyler.durdeth@gmail.com (X: @tylerdurdeth)"
+}
