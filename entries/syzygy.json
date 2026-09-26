@@ -1,0 +1,24 @@
+{
+  "title": "SYZYGY ORBIT SNAP",
+  "slug": "syzygy",
+  "team": [
+    "Cyma-Connection"
+  ],
+  "play_url": "https://cyma-connection.github.io/syzygy/",
+  "source_url": "https://github.com/Cyma-Connection/syzygy",
+  "commit": "fd0c4c1d2918ca3d503c4443663d28b42c5e2895",
+  "genre": "other",
+  "agent": "Cursor (Grok Bot / Syzygy assistant)",
+  "models": [
+    "Cursor agent models for code",
+    "procedural Web Audio for music/SFX (no Atlas)"
+  ],
+  "own_art": true,
+  "own_art_list": [
+    "All music and SFX: procedural Web Audio synthesizer in audio.js (no sample packs)",
+    "No external texture atlases; materials via surfaces.js / MeshStandardMaterial"
+  ],
+  "what_i_found": "SYZYGY turns a sun→object→craft alignment into a one-thumb arcade timing read: you do not steer or shoot—you feel the syzygy arrive, then SNAP at the right instant. The auto-orbit makes each approach legible while the portal micro-bonus, HEAT streak multiplier, and FIX repair kits add texture without changing the core rhythm. It feels like catching a celestial beat, not driving a racer or aiming a shooter.",
+  "wallet": "5CrUrazL9vJDGR6gApmNiEovVxs2HKeA9jN4zndcBGdPL9Cy",
+  "contact": "jdebournou@gmail.com / https://twitter.com/CymaConnection"
+}
