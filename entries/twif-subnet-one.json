@@ -1,0 +1,23 @@
+{
+  "title": "TWIF: Subnet One",
+  "slug": "twif-subnet-one",
+  "team": [
+    "taovinci0"
+  ],
+  "play_url": "https://taovinci0.github.io/twif-game/game/",
+  "source_url": "https://github.com/taovinci0/twif-game",
+  "commit": "7e32ff129cf8228dd537dc78822d90a8766689cb",
+  "genre": "other",
+  "agent": "Claude Code",
+  "models": [
+    "Claude Opus 5 (code, asset generation, candidate selection)"
+  ],
+  "own_art": true,
+  "own_art_list": [
+    "character and vehicle reference sheets (AI-generated, supplied by the team)",
+    "poster, banner and shop sign textures (AI-generated, supplied by the team)"
+  ],
+  "what_i_found": "There is not one audio file in this build: every sound, including the music, is synthesised at runtime by the Web Audio API, and the music is a scheduler rather than a loop so it has no seam to hear. That is why the whole game is about 1 MB. The bugs that actually mattered were found by gates that drive the game with real key, pointer and touch events rather than debug hooks: swinging with your back to an enemy at 1.5 m, an objective held open by enemies 350 m away, and an exit walled off by its own scenery.",
+  "wallet": "later",
+  "contact": "@taovinci0 (GitHub)"
+}
