@@ -1,0 +1,26 @@
+{
+  "title": "Vector Shift",
+  "slug": "vector-shift",
+  "team": ["AgusPepito"],
+  "play_url": "https://aguspepito.github.io/",
+  "source_url": "https://github.com/AgusPepito/AgusPepito.github.io",
+  "commit": "03937ed83f838bf1da869e5f965ed1e94e75fc4c",
+  "genre": "racing",
+  "agent": "Codex",
+  "models": [
+    "GPT Astra",
+    "OpenAI built-in image-generation tool (exact model identifier not exposed)",
+    "ElevenLabs"
+  ],
+  "own_art": true,
+  "own_art_list": [
+    "OpenAI-generated forward planet backdrop: assets/space/planet-backdrop-r1.ktx2",
+    "OpenAI-generated star panorama: assets/space/planet-stars-r2.ktx2",
+    "Six OpenAI-generated area banners: assets/areas/dockyards-r1.webp, conduits-r1.webp, broken-span-r1.webp, relay-grid-r1.webp, outer-ring-r1.webp, nexus-r1.webp",
+    "ElevenLabs-generated music created through an Atlas account, with full rights held by the entrant: assets/music/menu.mp3 and assets/music/race-01.mp3",
+    "Image prompts and procedural asset inventory: docs/SUBMISSION_ART.md in the source repository"
+  ],
+  "what_i_found": "Vector Shift combines phase matching with surface-relative racing across open roads, the inside and outside of orbital tubes, and jump gaps. A phase change can turn the same line into a speed lane or a safe route through an energy gate, so steering, colour choice and boost timing become one decision. Its 24 courses gradually combine these choices into a continuous racing rhythm.",
+  "wallet": "later",
+  "contact": "agusserra90@gmail.com"
+}
