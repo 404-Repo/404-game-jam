@@ -1,0 +1,25 @@
+{
+  "title": "Wind & Rain",
+  "slug": "wind-and-rain",
+  "team": [
+    "michalbe"
+  ],
+  "play_url": "https://michalbe.github.io/wind-and-rain/game/",
+  "source_url": "https://github.com/michalbe/wind-and-rain",
+  "commit": "e5fd85716b689483e034cf07563e635c79054edc",
+  "genre": "other",
+  "agent": "Claude Code",
+  "models": [
+    "Claude Fable 5.1",
+    "Claude Opus 5.5"
+  ],
+  "own_art": true,
+  "own_art_list": [
+    "All sound and music: synthesised at runtime with WebAudio in game/src/audio.js (no audio files)",
+    "Surface textures: procedural, generated at load time from code with the recipe's surfaces.js (no image files)",
+    "Effects and UI: wind ribbons, raincloud, dust and SVG icons, all written in code"
+  ],
+  "what_i_found": "There is no mining or chopping: income is ritual. Priestesses dance for Wind and priests kneel at sacred springs for Rain, and a raid does not steal resources but interrupts the rite. The economy is also the soundtrack, because every dancer adds a layer to the village's rhythm and every priest adds chant and thunder, so you hear your income grow and hear it falter when you are attacked.",
+  "wallet": "later",
+  "contact": "wind-and-rain.m91th@passmail.net"
+}
