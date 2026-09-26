@@ -1,0 +1,27 @@
+{
+  "title": "The Last Light",
+  "slug": "the-last-light",
+  "team": ["alexanderbladyko"],
+  "play_url": "https://the-last-light-toy-theatre.bladyko.chatgpt.site/",
+  "source_url": "https://github.com/alexanderbladyko/the-last-light",
+  "commit": "fda5539e4a83b839680f9d5c6498984e92749b8b",
+  "genre": "other",
+  "agent": "OpenAI Codex",
+  "models": [
+    "GPT-5.6 Sol",
+    "OpenAI ImageGen (exact model version not recorded in source)",
+    "Stable Audio 3 via Atlas"
+  ],
+  "own_art": true,
+  "own_art_list": [
+    "Original procedural Three.js toy and scenery geometry; construction notes and candidates in design/.",
+    "OpenAI ImageGen: game/textures/painted-wood-v1.jpg and game/textures/moonlit-village-v1.jpg; prompts in design/ARTWORK.md.",
+    "OpenAI ImageGen: game/textures/nesting-doll-painted-v1.jpg and game/textures/gramophone-panel-v1.jpg; prompts in design/PAINTED-TOYS.md.",
+    "OpenAI ImageGen: design/reference-board.png, an art-direction reference not loaded by the game.",
+    "Atlas / Stable Audio 3: game/music/clockwork-waltz-v1.mp3 and game/music/velvet-lullaby-v1.mp3; provenance in design/CHAMBER-SCORE.md.",
+    "Original Web Audio toy sound effects in game/audio.js."
+  ],
+  "what_i_found": "Your moving lantern reveals otherwise invulnerable ghosts and strengthens your defenses, but it also accelerates the enemies inside its beam. You must keep repositioning the light while your towers hold a haunted toy theatre until dawn. Nested dolls split into faster toys, while sleep, wake-up shockwaves, and ghostlight pools let six build sites support different strategies.",
+  "wallet": "later",
+  "contact": "alex.bladyko@gmail.com"
+}
