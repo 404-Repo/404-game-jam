@@ -1,0 +1,19 @@
+{
+  "title": "LIGHTKEEPER",
+  "slug": "lightkeeper",
+  "team": ["tensorflowyt-eng"],
+  "play_url": "https://tensorflowyt-eng.github.io/lightkeeper/",
+  "source_url": "https://github.com/tensorflowyt-eng/lightkeeper",
+  "commit": "468d11c2e97122ce76aeb80387b2797217451ccc",
+  "genre": "other",
+  "agent": "Hermes Agent (local orchestrator, qwen3.8-27b) with headless puppeteer gate harness",
+  "models": ["qwen3.8-27b"],
+  "own_art": true,
+  "own_art_list": [
+    "all 6 3D assets are hand-written three.js modules (lighthouse, ship, pilot cutter, island, reef rocks, channel buoy)",
+    "all audio is synthesized live (WebAudio oscillators: ocean, horn); no audio files"
+  ],
+  "what_i_found": "You are the keeper's pilot cutter: the lighthouse lamp burns oil you have to sail back and refill, and while the beam turns, crossing ships are guided through the channel — run dry and they are lost in the dark. The tension is timekeeping, not reflexes: oil, traffic, and the night all move against you. Every 3D object is recipe-built and the whole gameplay loop passed a 11-step headless functional test before shipping.",
+  "wallet": "5DUFxrkk44RKyxsUqRxBXysrX5Pa1R1KT1Kub7YDkJoSwHL1",
+  "contact": "@tensor_flow_ (X)"
+}
