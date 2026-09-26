@@ -1,0 +1,27 @@
+{
+  "title": "Fright House",
+  "slug": "fright-house",
+  "team": [
+    "POLIBU"
+  ],
+  "play_url": "https://polibu.github.io/fright-house/",
+  "source_url": "https://github.com/POLIBU/fright-house",
+  "commit": "8dae6f0e603dc3e943f3008fa1e699e19d01e479",
+  "genre": "other",
+  "agent": "Codex",
+  "models": [
+    "GPT-6",
+    "Gemini 3.1 Flash Lite Image (Atlas references)",
+    "ElevenLabs SFX v2 (Atlas)",
+    "ElevenLabs Flash v2.5 (Atlas)",
+    "OpenAI image generation (development concept only; exact model not exposed)"
+  ],
+  "own_art": true,
+  "own_art_list": [
+    "Original procedural canvas wood, paint and signage; Web Audio hum, steps and ticks.",
+    "Initial OpenAI-generated funhouse concept, development reference only, excluded from runtime."
+  ],
+  "what_i_found": "Fright House is one investigation spread across twelve rooms that each change genre — street detective walk, four-floor platformer, library chase, barrel run, boss arena, rail-cart finale — without a break in the case. The field notes you actually stopped to take become the evidence that decides between two endings: the police arrest, or the bedroom that was always waiting. Switching mechanics every room turned out to be the horror pacing: the moment you learn a room's rules, the park changes them.",
+  "wallet": "later",
+  "contact": "pvvf418@gmail.com"
+}
