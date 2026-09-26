@@ -1,0 +1,21 @@
+{
+  "title": "SUNDRIFT",
+  "slug": "sundrift",
+  "team": [
+    "lkruer"
+  ],
+  "play_url": "https://lkruer.github.io/sundrift/game/",
+  "source_url": "https://github.com/lkruer/sundrift",
+  "commit": "4d76a03c6174919239daea151e4be76d77eb0bbd",
+  "genre": "racing",
+  "agent": "Claude Code",
+  "models": [
+    "Claude Fable 5.1 and Claude Opus 5.5 (Anthropic) wrote the code and the assets and judged the asset candidates, the critic rounds and the QA passes",
+    "no image or audio model: there are no image or audio files; every texture and every sound is generated in code at load"
+  ],
+  "own_art": false,
+  "own_art_list": [],
+  "what_i_found": "The clock is the score: every drift you bank pushes the time of day forward, so a run starts at sunset and your driving carries the pass through the night to sunrise, the sky and the light on the road turning with every good slide. Leave the road and there is no reset button: a giant horseshoe magnet swoops down, grabs the car and carries it back to where it left. On a phone it is one finger (hold to drive, slide to steer, pull down to lift off or brake) with the other thumb on the handbrake.",
+  "wallet": "later",
+  "contact": "liamkruer@gmail.com"
+}
