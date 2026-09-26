@@ -1,0 +1,25 @@
+{
+  "title": "No free lunch theorem",
+  "slug": "no-free-lunch-theorem",
+  "team": [
+    "aliiqbal24"
+  ],
+  "play_url": "https://no-lunch-left-behind.vercel.app/",
+  "source_url": "https://github.com/aliiqbal24/no-lunch-left-behind",
+  "commit": "20c6300c4159008614e15f3b67ddcc806c03ad5f",
+  "genre": "other",
+  "agent": "OpenAI Codex",
+  "models": [
+    "OpenAI GPT-6 Sol"
+  ],
+  "own_art": true,
+  "own_art_list": [
+    "Original editable Three.js recipe assets authored as code",
+    "Original 3D breakroom opening, refined business-casual and pressure-suit hero, characters and props built as editable Three.js recipe code; Atlas-generated visual studies were references, not shipped media",
+    "Original inline SVG and Canvas UI graphics",
+    "Original procedural Web Audio music, ambience, material-specific collision effects and cues; no third-party audio files"
+  ],
+  "what_i_found": "An apocalypse runner where failure never ends the run: every collision permanently reduces the number of people alive, and the story adapts to the survivors. The mission changes from lane running through City and Station, with two-second left, middle, and right calls, to analog free flight through two orbital nets. Six successful lane calls protect up to 800 million people before the final switch.",
+  "wallet": "later",
+  "contact": "@TheAli_Iqbal on X (please contact on X or email for wallet details)"
+}
