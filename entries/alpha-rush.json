@@ -1,0 +1,25 @@
+{
+  "title": "Alpha Rush",
+  "slug": "alpha-rush",
+  "team": [
+    "CeagleDev"
+  ],
+  "play_url": "https://ceagledev.github.io/alpha-rush/game/",
+  "source_url": "https://github.com/CeagleDev/alpha-rush",
+  "commit": "2897073ef418e5280c70aaab00f87131e049b782",
+  "genre": "other",
+  "agent": "Claude Code (lead session plus parallel sub-agents for assets, critic rounds, UI and audio)",
+  "models": [
+    "Claude Fable 5.1 (Anthropic): code, asset modules, critic and QA rounds",
+    "Claude Opus 5 (Anthropic): code, asset modules, critic rounds",
+    "Claude Opus 5.5 (Anthropic): code, deploy and load-time work",
+    "FLUX.2 Max via Atlas: concept references for every asset, character and zone, sign and noren sprites, the dusk and day sky panoramas",
+    "Atlas PATINA material generation: the asphalt, tin, plank, deck and gold PBR texture sets",
+    "Atlas Simple Music Generation: the home and run music tracks"
+  ],
+  "own_art": false,
+  "own_art_list": [],
+  "what_i_found": "Time of day is a function of distance: one lap runs from night through dawn, day and dusk and back, and the sky, sun, street lights, drying road and music all blend from that single number, so the city changes under you with no loading screen. The night street has no character light at all; heroes, dogs and coins are lit only by the lanterns, signs and vending machines they pass, which is what makes them sit in the scene. Every hero, garment and colourway is procedural Three.js code built from approved concept boards, so you can re-dress a character on a live, waving stage and wear it straight into the run.",
+  "wallet": "later",
+  "contact": "ceagleoneismmizzy@gmail.com"
+}
