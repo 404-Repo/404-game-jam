@@ -1,0 +1,26 @@
+{
+  "title": "Farseek",
+  "slug": "farseek",
+  "team": [
+    "Rapiiidooo"
+  ],
+  "play_url": "https://farseek.rapidoai.dev/",
+  "source_url": "https://github.com/Rapiiidooo/farseek",
+  "commit": "13a77679fdda280d04a57d0c6ed661d09cfc93b5",
+  "genre": "platformer",
+  "agent": "Claude Code",
+  "models": [
+    "Claude Opus 5.5 via Claude Code (design, code, the recipe's asset candidates and choices by eye, verification)"
+  ],
+  "own_art": true,
+  "own_art_list": [
+    "Every 3D object is original procedural Three.js written through the 404 recipe: a brief, three candidates (one or two for the last two waves: the city under the sea and its ruins, its fish and mantas, and the explorer's third pass), the verifier's four-sided sheet and a choice by eye, all kept in receipts/candidates/. No downloaded meshes and no image generator.",
+    "Surface textures are generated in the browser at load by the recipe's surfaces.js, and the ice's fractures and the snow's grain are drawn on canvases at load (game/frozen.js); the game ships no texture files.",
+    "Music and sound effects are synthesised live with Web Audio in game/sound.js; the game ships no recordings.",
+    "Original HUD glyphs drawn as SVG in code (game/glyph-icons.js), and an original favicon drawn as SVG (game/favicon.svg) with its 180 px PNG rendering (game/apple-touch-icon.png).",
+    "Third-party typefaces: Barlow Condensed and DM Sans, SIL Open Font License 1.1, self-hosted in game/fonts/ with their licence files."
+  ],
+  "what_i_found": "Doors are dialled with light: in a sunken tomb you turn bronze mirrors until sunlight lights the three glyphs of the gate's address. Beyond it, a customs checkpoint only stamps address plates as punishment, so you provoke its Wardens with a confiscated sun disc and step out of each stamp's ring so it lands on the right plate. On the dawn isles the same disc, charged in crystal beams, wakes pylons whose stepped bridges of light last only seconds.",
+  "wallet": "5HRAPidoCoZPYsLE2q7Ge8WWAfQ3XZpSYoz7aGYJYRmMQpt1",
+  "contact": "@Rapido_ai"
+}
