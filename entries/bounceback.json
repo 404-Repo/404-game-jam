@@ -1,0 +1,24 @@
+{
+  "title": "BounceBack",
+  "slug": "bounceback",
+  "team": ["IrrhammCode"],
+  "play_url": "https://bounceback-beta.vercel.app",
+  "source_url": "https://github.com/IrrhammCode/bounceback",
+  "commit": "bca224b17e4bb02bf57b645fa721865910fae55c",
+  "genre": "other",
+  "agent": "Antigravity IDE",
+  "models": ["Gemini 3.8 Flash", "Claude Opus 4.6"],
+  "own_art": true,
+  "own_art_list": [
+    "Yellow_Shell_Hustle.mp3",
+    "public/arena_floor_map.jpg",
+    "public/stadium_jumbotron.jpg",
+    "public/stadium_sky_env.jpg",
+    "public/tiered_stadium_map.jpg",
+    "public/logo.png",
+    "public/favicon.png"
+  ],
+  "what_i_found": "While every other entry features solo vehicles or single-character runners, BounceBack is the only game running a simultaneous 5v5 physics arena battle where 10 fighters actively brawl, dash, and punch rivals over the ropes at the same time. Knocking opponents into reactive neon pinball bumpers turns fighter launches into kinetic ricochets where bank shots and bumper rebounds exponentially multiply ring-out K.O. points. Televised live audience disaster votes—triggering real-time twisters, seismic quakes, and orbital lasers—paired with cartoon party mystery cubes turn every round into a chaotic, clutch comeback arena that autonomous AI squads dynamically navigate.",
+  "wallet": "5DiLBCDbZHzhfJSxYXMw1DtkBSxCgWinnF9bmsfmLjDVJ8ZT",
+  "contact": "hammxweb3@gmail.com"
+}
