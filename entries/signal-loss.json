@@ -1,0 +1,16 @@
+{
+  "title": "Signal Loss",
+  "slug": "signal-loss",
+  "team": ["Anoi-xyz"],
+  "play_url": "https://signal-loss-drab.vercel.app/",
+  "source_url": "https://github.com/Anoi-xyz/signal-loss",
+  "commit": "09f57f4",
+  "genre": "other",
+  "agent": "Gemini 3.6 (via Antigravity), directed with Claude",
+  "models": ["Gemini 3.6 Flash", "Claude (design, spec, and debugging direction)"],
+  "own_art": false,
+  "own_art_list": ["leberch-atmospheric-piano-603148.mp3 (Pixabay Music, free license)", "mickeyscat-moment-of-peace-mickeyscat-554494.mp3 (Pixabay Music, free license)"],
+  "what_i_found": "Visibility is the life bar, not a health meter or timer. You don't dodge threats — you spend your ability to see the next decision, and the fog closing in IS the danger, rendered directly rather than shown as a HUD number. Nobody else in this jam turned sight itself into the resource being managed.",
+  "wallet": "later",
+  "contact": "chideraanoiting@gmail.com / @anoi_exe"
+}
