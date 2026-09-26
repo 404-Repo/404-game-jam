@@ -1,0 +1,22 @@
+{
+  "title": "PONG PING",
+  "slug": "pong-ping",
+  "team": [
+    "JENW1N"
+  ],
+  "play_url": "https://jenw1n.github.io/celluloid/game/",
+  "source_url": "https://github.com/JENW1N/celluloid",
+  "commit": "8cd5bfabd0fcf43a23a882cb3707df80ec8a9d54",
+  "genre": "other",
+  "agent": "Claude Code",
+  "models": [
+    "Claude Fable 5.1 (claude-fable-5-1) wrote the code, the assets and the critiques",
+    "Claude Opus 5.5 (claude-opus-5-5) built the four halls, the rally music, the pencil mode, match point and the match report",
+    "no image or sound generator: every sound is synthesised at runtime from the physics"
+  ],
+  "own_art": false,
+  "own_art_list": [],
+  "what_i_found": "The rally is the music: every contact plays a note that climbs a scale over a beat locked to the rally's own tempo, and past a dozen shots the hall redraws itself in pencil while only the table, the ball and the two blades keep their colour. The racket is real, not a bat: a 2.7 g ball with drag and Magnus lift meets rubber modelled as grip and slip, so spin is a control, a flick at contact or a sweep of the mouse while your serve is in the air, and you watch the ball curve with it. Each opponent plays in a hall of its own, from a school gym in daylight to a floodlit arena, and the game meets a nearly-right stroke halfway instead of making the opponent worse, so anyone can rally and PRO still bites.",
+  "wallet": "later",
+  "contact": "bottybo21@gmail.com"
+}
