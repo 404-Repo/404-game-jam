@@ -1,0 +1,21 @@
+{
+  "title": "RIDERASH",
+  "slug": "riderash",
+  "team": [
+    "karvachiik-lgtm"
+  ],
+  "play_url": "https://riderash.vercel.app/",
+  "source_url": "https://github.com/karvachiik-lgtm/riderash",
+  "commit": "645b7d2e46e5e012187cb639401c92aec7885efb",
+  "genre": "racing",
+  "agent": "Claude Code, opencode",
+  "models": [
+    "Claude (Claude Code)",
+    "Atlas for the sky panoramas, sound effects and music"
+  ],
+  "own_art": false,
+  "own_art_list": [],
+  "what_i_found": "The race is a brawl: a pack of rivals that fight you for position, not for fun, with punches, kicks, grabs and a chain at a hundred miles an hour. The police are real riders, not a timer: a cop waits on the verge like a speed trap, chases you through traffic, can be knocked off his bike, and if you wreck near him he pulls over, walks up and cuffs, tickets, lectures or kneels you, played on the actual rigs and checked frame by frame by a harness. Every bike, rider and building is Three.js code, and each garage card turns the real machine on a turntable when you hover it.",
+  "wallet": "later",
+  "contact": "https://x.com/GFaang97609"
+}
