@@ -11,9 +11,9 @@ This repo is where entries land. One pull request per entry, adding one file to 
 | 11 Sep 2026, 12:00 | opens. Recipe, harness and Atlas credits available. Building earlier is fine; the first commit of your entry repo must be on or after 11 Sep 00:00 UTC. |
 | 18 Sep | office hours. Questions answered, one entry taken apart live. |
 | 25 Sep, 23:59 | closes. Pull request open, jam gate passed, play link working. |
-| 28 Sep | shortlist published here and on X. Community vote opens. |
+| 28 Sep | shortlist published here and on X. Community vote opens on every entry. |
 | 28 Sep | winner announced on stage at Exploit Summit, Montreal. Nobody has to be there. |
-| 30 Sep, 12:00 | community vote closes (moved from 28 Sep, because the shortlist was published late). |
+| 1 Oct, 23:59 | community vote closes (extended from 28 Sep). |
 | by 28 Oct | prizes paid. |
 
 ## Prizes
@@ -25,7 +25,7 @@ Prizes are denominated in TAO and paid in TAO to one Bittensor wallet per team, 
 | first | 5 | 1,300 USD | announced on stage, a build breakdown published with 404 |
 | second | 3 | 780 USD | showcase slot and a post on the 404 channel |
 | third | 1.5 | 390 USD | showcase slot and a post on the 404 channel |
-| community | 0.5 | 130 USD | voted by entrants, on the shortlist |
+| community | 0.5 | 130 USD | voted by entrants, on any entry |
 
 Everyone keeps their game. Ten entrants receive a free Atlas licence, chosen by the judges from the shortlist and the honourable mentions. The best entries are showcased by 404 on X.
 
@@ -80,7 +80,7 @@ The 20 for "what did you find that nobody else tried" is about the game itself: 
 
 Judges are announced before entries close. Anyone with a conflict (they built a reference game, they work on the thing an entry was built with) declares it and does not score that entry.
 
-**Community vote.** Entrants vote for one shortlisted entry other than their own by reacting with a thumbs up to its pull request between 28 Sep and 30 Sep 12:00 UTC. The shortlist is marked on https://game.404.xyz/#entries. One GitHub account, one vote, entrants only. Reactions from accounts that did not enter are not counted.
+**Community vote.** Entrants vote for one entry other than their own, any entry, by reacting with a thumbs up to its pull request between 28 Sep and 1 Oct 23:59 UTC. All entries are on https://game.404.xyz/#entries. One GitHub account, one vote, entrants only. Reactions from accounts that did not enter are not counted.
 
 ## When things go wrong
 
