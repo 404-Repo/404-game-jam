@@ -11,9 +11,9 @@ This repo is where entries land. One pull request per entry, adding one file to 
 | 11 Sep 2026, 12:00 | opens. Recipe, harness and Atlas credits available. Building earlier is fine; the first commit of your entry repo must be on or after 11 Sep 00:00 UTC. |
 | 18 Sep | office hours. Questions answered, one entry taken apart live. |
 | 25 Sep, 23:59 | closes. Pull request open, jam gate passed, play link working. |
-| 27 Sep | shortlist published here and on X. Community vote opens. |
-| 28 Sep, 12:00 | community vote closes. |
+| 28 Sep | shortlist published here and on X. Community vote opens. |
 | 28 Sep | winner announced on stage at Exploit Summit, Montreal. Nobody has to be there. |
+| 30 Sep, 12:00 | community vote closes (moved from 28 Sep, because the shortlist was published late). |
 | by 28 Oct | prizes paid. |
 
 ## Prizes
@@ -65,7 +65,7 @@ It checks: ready within the time limit, total size under 10 MB, starts from a re
 
 Two stages, published so nobody has to guess.
 
-**Stage one, blind pairs.** Every entry appears in about six pairs against other entries: two frames in motion side by side, names off, order shuffled, judged on one question only: does it look like a made thing. Three judges. The top twelve are the shortlist.
+**Stage one, blind pairs.** Every entry appears in about six pairs against other entries: two frames in motion side by side, names off, order shuffled, judged on one question only: does it look like a made thing. Three judges. The judges' top picks are the shortlist: fifteen games for this jam, marked on https://game.404.xyz/#entries.
 
 **Stage two, hands on.** Each shortlisted game is played by every judge for thirty minutes on a phone and a laptop, then scored on four questions with the weights below.
 
@@ -80,7 +80,7 @@ The 20 for "what did you find that nobody else tried" is about the game itself: 
 
 Judges are announced before entries close. Anyone with a conflict (they built a reference game, they work on the thing an entry was built with) declares it and does not score that entry.
 
-**Community vote.** Entrants vote for one shortlisted entry other than their own by reacting with a thumbs up to its pull request between 27 Sep and 28 Sep 12:00 UTC. One GitHub account, one vote, entrants only. Reactions from accounts that did not enter are not counted.
+**Community vote.** Entrants vote for one shortlisted entry other than their own by reacting with a thumbs up to its pull request between 28 Sep and 30 Sep 12:00 UTC. The shortlist is marked on https://game.404.xyz/#entries. One GitHub account, one vote, entrants only. Reactions from accounts that did not enter are not counted.
 
 ## When things go wrong
 
