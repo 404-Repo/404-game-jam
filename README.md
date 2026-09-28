@@ -11,8 +11,9 @@ This repo is where entries land. One pull request per entry, adding one file to 
 | 11 Sep 2026, 12:00 | opens. Recipe, harness and Atlas credits available. Building earlier is fine; the first commit of your entry repo must be on or after 11 Sep 00:00 UTC. |
 | 18 Sep | office hours. Questions answered, one entry taken apart live. |
 | 25 Sep, 23:59 | closes. Pull request open, jam gate passed, play link working. |
-| 28 Sep | shortlist published here and on X. Community vote opens on every entry. |
+| 28 Sep | shortlist published here and on X. |
 | 28 Sep | winner announced on stage at Exploit Summit, Montreal. Nobody has to be there. |
+| 29 Sep | community vote opens on every entry. |
 | 1 Oct, 23:59 | community vote closes (extended from 28 Sep). |
 | by 28 Oct | prizes paid. |
 
@@ -80,7 +81,7 @@ The 20 for "what did you find that nobody else tried" is about the game itself: 
 
 Judges are announced before entries close. Anyone with a conflict (they built a reference game, they work on the thing an entry was built with) declares it and does not score that entry.
 
-**Community vote.** Entrants vote for one entry other than their own, any entry, by reacting with a thumbs up to its pull request between 28 Sep and 1 Oct 23:59 UTC. All entries are on https://game.404.xyz/#entries. One GitHub account, one vote, entrants only. Reactions from accounts that did not enter are not counted.
+**Community vote.** Entrants vote for one entry other than their own, any entry, by reacting with a thumbs up to its pull request between 29 Sep and 1 Oct 23:59 UTC. All entries are on https://game.404.xyz/#entries. One GitHub account, one vote, entrants only. Reactions from accounts that did not enter are not counted.
 
 ## When things go wrong
 
