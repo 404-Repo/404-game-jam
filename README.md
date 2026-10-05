@@ -13,8 +13,8 @@ This repo is where entries land. One pull request per entry, adding one file to 
 | 25 Sep, 23:59 | closes. Pull request open, jam gate passed, play link working. |
 | 28 Sep | shortlist published here and on X. |
 | 28 Sep | winner announced on stage at Exploit Summit, Montreal. Nobody has to be there. |
-| 29 Sep | community vote opens on every entry. |
-| 1 Oct, 23:59 | community vote closes (extended from 28 Sep). |
+| 5 Oct, 10:00 UTC | community vote opens on the fifteen shortlisted games. |
+| 12 Oct, 10:00 UTC | community vote closes. |
 | by 28 Oct | prizes paid. |
 
 ## Prizes
@@ -26,7 +26,7 @@ Prizes are denominated in TAO and paid in TAO to one Bittensor wallet per team, 
 | first | 5 | 1,300 USD | announced on stage, a build breakdown published with 404 |
 | second | 3 | 780 USD | showcase slot and a post on the 404 channel |
 | third | 1.5 | 390 USD | showcase slot and a post on the 404 channel |
-| community | 0.5 | 130 USD | voted by entrants, on any entry |
+| community | 0.5 | 130 USD | voted by entrants, on the shortlist; the three podium winners cannot win it |
 
 Everyone keeps their game. Ten entrants receive a free Atlas licence, chosen by the judges from the shortlist and the honourable mentions. The best entries are showcased by 404 on X.
 
@@ -81,7 +81,7 @@ The 20 for "what did you find that nobody else tried" is about the game itself: 
 
 Judges are announced before entries close. Anyone with a conflict (they built a reference game, they work on the thing an entry was built with) declares it and does not score that entry.
 
-**Community vote.** Entrants vote for one entry other than their own, any entry, by reacting with a thumbs up to its pull request between 29 Sep and 1 Oct 23:59 UTC. All entries are on https://game.404.xyz/#entries. One GitHub account, one vote, entrants only. Reactions from accounts that did not enter are not counted.
+**Community vote.** Entrants vote for one shortlisted entry other than their own by reacting with a thumbs up to its pull request between 5 Oct 10:00 UTC and 12 Oct 10:00 UTC (12:00 in Vienna). The fifteen shortlisted games are marked on https://game.404.xyz/#entries; votes on other entries are not counted. The three podium winners cannot also win the community prize; if one of them gets the most votes, the prize goes to the next entry. One GitHub account, one vote, entrants only. Reactions from accounts that did not enter are not counted.
 
 ## When things go wrong
 
